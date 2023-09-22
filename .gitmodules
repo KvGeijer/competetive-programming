@@ -1,0 +1,3 @@
+[submodule "rust-template"]
+	path = rust-template
+	url = git@github.com:KvGeijer/comp-rust-template.git
