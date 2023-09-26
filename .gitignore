@@ -1,3 +1,5 @@
 **/target
 **/Cargo.lock
 **/bundled.rs
+comps/arbiters
+**/input.txt
